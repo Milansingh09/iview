@@ -1,0 +1,6 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 150vh; /* vh stands for viewport height */
+  }
